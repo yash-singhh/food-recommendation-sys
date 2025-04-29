@@ -1,0 +1,86 @@
+State,Food_Item,Category,Spice_Level,Season,Price_Range,Diet_Type,Festival
+Gujarat,Dhokla,Vegetarian,Medium,All,₹100 - ₹250,Vegetarian,Diwali
+Gujarat,Fafda Jalebi,Vegetarian,High,All,₹150 - ₹300,Vegetarian,Diwali
+Gujarat,Kaju Katli,Dessert,Low,Winter,₹200 - ₹400,Vegan,Diwali
+Gujarat,Undhiyu,Vegetarian,High,Winter,₹250 - ₹400,Vegan,Holi
+Gujarat,Handvo,Vegetarian,Medium,Monsoon,₹150 - ₹300,Vegetarian,Navami
+Maharashtra,Puran Poli,Vegetarian,Low,Winter,₹200 - ₹350,Vegetarian,Gudi Padwa
+Maharashtra,Modak,Dessert,Low,Monsoon,₹150 - ₹250,Vegetarian,Ganesh Chaturthi
+Maharashtra,Bheja Fry,Non-Vegetarian,High,All,₹300 - ₹500,Non-Vegetarian,Eid al-Adha
+Maharashtra,Bombil Fry,Non-Vegetarian,Medium,All,₹250 - ₹400,Non-Vegetarian,Diwali
+Punjab,Sarson da Saag,Vegetarian,Medium,Winter,₹150 - ₹300,Vegetarian,Lohri
+Punjab,Makki di Roti,Vegetarian,Low,Winter,₹100 - ₹250,Vegetarian,Lohri
+Punjab,Amritsari Fish,Non-Vegetarian,High,All,₹300 - ₹500,Non-Vegetarian,Diwali
+Punjab,Besan Ladoo,Dessert,Low,All,₹180 - ₹350,Vegetarian,Diwali
+Kolkata,Macher Jhol,Non-Vegetarian,Medium,All,₹250 - ₹400,Non-Vegetarian,Eid al-Adha
+Kolkata,Kathi Roll,Non-Vegetarian,High,All,₹200 - ₹350,Non-Vegetarian,Ram Navami
+Kolkata,Rasgulla,Dessert,Low,All,₹100 - ₹200,Vegetarian,Durga Ashtami
+Kolkata,Shorshe Ilish,Non-Vegetarian,Medium,Monsoon,₹350 - ₹600,Non-Vegetarian,Durga Ashtami
+Tamil Nadu,Idli,Vegetarian,Low,All,₹50 - ₹150,Vegetarian,Pongal
+Tamil Nadu,Dosa,Vegetarian,Low,All,₹100 - ₹250,Vegetarian,Navaratri
+Tamil Nadu,Chettinad Chicken,Non-Vegetarian,High,All,₹250 - ₹450,Non-Vegetarian,Deepavali
+Tamil Nadu,Chicken 65,Non-Vegetarian,High,All,₹150 - ₹300,Non-Vegetarian,Onam
+Kerala,Avial,Vegetarian,Medium,All,₹150 - ₹250,Vegetarian,Onam
+Kerala,Appam,Vegetarian,Low,All,₹100 - ₹200,Vegetarian,Onam
+Kerala,Karimeen Pollichathu,Non-Vegetarian,High,All,₹500 - ₹800,Non-Vegetarian,Onam
+Kerala,Thalassery Biryani,Non-Vegetarian,Medium,All,₹350 - ₹600,Non-Vegetarian,Onam
+Bengaluru,Masala Dosa,Vegetarian,Low,All,₹100 - ₹200,Vegetarian,Republic Day
+Bengaluru,Neer Dosa,Vegetarian,Low,All,₹120 - ₹250,Vegetarian,Republic Day
+Bengaluru,Coorgi Pandi Curry,Non-Vegetarian,High,All,₹250 - ₹500,Non-Vegetarian,Karnataka Rajyotsava
+Bengaluru,Chicken Sukka,Non-Vegetarian,Medium,All,₹200 - ₹400,Non-Vegetarian,Christmas
+Rajasthan,Dal Baati Churma,Vegetarian,Medium,Winter,₹200 - ₹350,Vegetarian,Makar Sankranti
+Rajasthan,Ghevar,Dessert,Low,Summer,₹150 - ₹250,Vegetarian,Raksha Bandhan
+Rajasthan,Laal Maas,Non-Vegetarian,High,All,₹250 - ₹500,Non-Vegetarian,Diwali
+Rajasthan,Ker Sangri,Vegetarian,Medium,All,₹150 - ₹300,Vegetarian,Republic Day
+Uttarakhand,Aloo Ke Gutke,Vegetarian,Medium,All,₹100 - ₹200,Vegetarian,Baisakhi
+Uttarakhand,Kumaoni Raita,Vegetarian,Low,All,₹100 - ₹200,Vegetarian,Baisakhi
+Uttarakhand,Chainsoo,Vegetarian,Medium,All,₹150 - ₹250,Vegetarian,Diwali
+Uttarakhand,Kapala,Non-Vegetarian,Medium,All,₹300 - ₹500,Non-Vegetarian,Eid al-Adha
+Goa,Goan Fish Curry,Non-Vegetarian,High,Monsoon,₹350 - ₹600,Non-Vegetarian,Christmas
+Goa,Feni,Drink,Low,All,₹100 - ₹200,Vegetarian,Diwali
+Goa,Bebinca,Dessert,Low,All,₹150 - ₹300,Vegetarian,Christmas
+Goa,Chicken Xacuti,Non-Vegetarian,High,All,₹250 - ₹500,Non-Vegetarian,Diwali
+Assam,Assamese Fish Curry,Non-Vegetarian,Medium,All,₹250 - ₹400,Non-Vegetarian,Pohela Boishakh
+Assam,Masor Tenga,Non-Vegetarian,Low,All,₹200 - ₹350,Non-Vegetarian,Magh Bihu
+Assam,Pitha,Vegetarian,Low,Winter,₹150 - ₹250,Vegetarian,Bihu
+Assam,Kharkhari,Non-Vegetarian,Medium,All,₹250 - ₹400,Non-Vegetarian,Magh Bihu
+Himachal Pradesh,Chana Madra,Vegetarian,Low,All,₹150 - ₹250,Vegetarian,Baisakhi
+Himachal Pradesh,Solan Kadoo,Vegetarian,Low,All,₹100 - ₹200,Vegetarian,Diwali
+Himachal Pradesh,Chana Masala,Vegetarian,Medium,All,₹100 - ₹200,Vegetarian,Holi
+Himachal Pradesh,Trout Fish,Non-Vegetarian,Medium,All,₹250 - ₹450,Non-Vegetarian,Diwali
+Jammu & Kashmir,Rogan Josh,Non-Vegetarian,High,All,₹350 - ₹600,Non-Vegetarian,Eid al-Adha
+Jammu & Kashmir,Yakhni,Non-Vegetarian,Medium,All,₹300 - ₹500,Non-Vegetarian,Diwali
+Jammu & Kashmir,Kashmiri Dum Aloo,Vegetarian,Medium,All,₹200 - ₹350,Vegetarian,Navaratri
+Jammu & Kashmir,Saffron Kheer,Dessert,Low,All,₹150 - ₹250,Vegetarian,Diwali
+Bihar,Litti Chokha,Vegetarian,Medium,All,₹150 - ₹250,Vegetarian,Holi
+Bihar,Sattu Paratha,Vegetarian,Medium,All,₹100 - ₹200,Vegetarian,Makar Sankranti
+Bihar,Chana Ghugni,Vegetarian,Medium,All,₹100 - ₹150,Vegetarian,Diwali
+Bihar,Chana Masala,Vegetarian,Medium,All,₹100 - ₹200,Vegetarian,Republic Day
+Chhattisgarh,Chana Samosa,Vegetarian,Medium,All,₹100 - ₹200,Vegetarian,Holi
+Chhattisgarh,Chana Dal,Vegetarian,Medium,All,₹150 - ₹250,Vegetarian,Diwali
+Chhattisgarh,Poha,Vegetarian,Low,All,₹50 - ₹150,Vegetarian,Republic Day
+Chhattisgarh,Matka Chicken,Non-Vegetarian,High,All,₹250 - ₹400,Non-Vegetarian,Eid al-Adha
+Madhya Pradesh,Poha,Vegetarian,Low,All,₹50 - ₹150,Vegetarian,Republic Day
+Madhya Pradesh,Indori Namkeen,Vegetarian,Low,All,₹50 - ₹150,Vegetarian,Diwali
+Madhya Pradesh,Bhopali Gosht,Non-Vegetarian,Medium,All,₹200 - ₹400,Non-Vegetarian,Eid al-Adha
+Madhya Pradesh,Dal Bafla,Vegetarian,Medium,All,₹150 - ₹300,Vegetarian,Diwali
+Arunachal Pradesh,Thukpa,Non-Vegetarian,Medium,All,₹150 - ₹300,Non-Vegetarian,Losar
+Arunachal Pradesh,Shamuk,Vegetarian,Medium,All,₹100 - ₹250,Vegetarian,Diwali
+Nagaland,Smoked Pork,Non-Vegetarian,High,All,₹300 - ₹500,Non-Vegetarian,Christmas
+Nagaland,Pork with Bamboo Shoot,Non-Vegetarian,High,All,₹350 - ₹600,Non-Vegetarian,Diwali
+Nagaland,Akini,Vegetarian,Low,All,₹100 - ₹200,Vegetarian,Diwali
+Manipur,Ngari,Non-Vegetarian,Medium,All,₹150 - ₹250,Non-Vegetarian,Yaoshang
+Manipur,Kangshoi,Vegetarian,Low,All,₹100 - ₹200,Vegetarian,Yaoshang
+Meghalaya,Khasi Mutton,Non-Vegetarian,High,All,₹300 - ₹500,Non-Vegetarian,Christmas
+Meghalaya,Khar,Vegetarian,Medium,All,₹150 - ₹250,Vegetarian,Diwali
+Tripura,Muya,Non-Vegetarian,Medium,All,₹200 - ₹400,Non-Vegetarian,Poila Baisakh
+Tripura,Chingri Malai Curry,Non-Vegetarian,Medium,All,₹350 - ₹500,Non-Vegetarian,Poila Baisakh
+Tripura,Patishapta,Dessert,Low,Winter,₹100 - ₹200,Vegetarian,Durga Puja
+Sikkim,Phagshapa,Non-Vegetarian,Medium,All,₹250 - ₹400,Non-Vegetarian,Lhosar
+Sikkim,Momos,Vegetarian,Low,All,₹100 - ₹200,Vegetarian,Lhosar
+Andhra Pradesh,Andhra Chicken Curry,Non-Vegetarian,High,All,₹250 - ₹500,Non-Vegetarian,Ugadi
+Andhra Pradesh,Pesarattu,Vegetarian,Medium,All,₹150 - ₹250,Vegetarian,Ugadi
+Andhra Pradesh,Upma,Vegetarian,Low,All,₹50 - ₹150,Vegetarian,Republic Day
+Andhra Pradesh,Avakaya,Vegetarian,High,Summer,₹100 - ₹250,Vegetarian,Ugadi
+Lakshadweep,Fish Curry,Non-Vegetarian,High,All,₹350 - ₹600,Non-Vegetarian,Onam
+Lakshadweep,Vegetable Pulao,Vegetarian,Medium,All,₹200 - ₹350,Vegetarian,Diwali

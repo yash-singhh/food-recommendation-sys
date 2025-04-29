@@ -1,0 +1,51 @@
+State,Food_Item,Category,Spice_Level,Season,Price_Range,Diet_Type
+Gujarat,Dhokla,Vegetarian,Medium,All,₹100 - ₹250,Vegetarian
+Gujarat,Fafda Jalebi,Vegetarian,High,All,₹150 - ₹300,Vegetarian
+Gujarat,Kaju Katli,Dessert,Low,Winter,₹200 - ₹400,Vegan
+Gujarat,Undhiyu,Vegetarian,High,Winter,₹250 - ₹400,Vegan
+Gujarat,Handvo,Vegetarian,Medium,Monsoon,₹150 - ₹300,Vegetarian
+
+Maharashtra,Pav Bhaji,Vegetarian,High,All,₹150 - ₹300,Vegetarian
+Maharashtra,Modak,Dessert,Low,Winter,₹250 - ₹450,Vegetarian
+Maharashtra,Puran Poli,Vegetarian,Medium,All,₹250 - ₹450,Vegetarian
+Maharashtra,Chicken Malvani,Non-Vegetarian,High,All,₹300 - ₹600,Non-Vegetarian
+Maharashtra,Misal Pav,Vegetarian,High,Monsoon,₹100 - ₹250,Vegetarian
+
+Punjab,Butter Chicken,Non-Vegetarian,High,Winter,₹300 - ₹600,Non-Vegetarian
+Punjab,Sarson da Saag,Vegetarian,High,Winter,₹150 - ₹300,Vegan
+Punjab,Makki di Roti,Vegetarian,Medium,Winter,₹150 - ₹300,Vegan
+Punjab,Besan Ladoo,Dessert,Low,All,₹180 - ₹350,Vegetarian
+Punjab,Pinni,Dessert,Low,Winter,₹180 - ₹350,Vegetarian
+Punjab,Chole Bhature,Vegetarian,High,All,₹150 - ₹300,Vegetarian
+
+West Bengal,Rasgulla,Dessert,Low,Summer,₹100 - ₹200,Vegan
+West Bengal,Macher Jhol,Non-Vegetarian,Medium,Winter,₹250 - ₹500,Non-Vegetarian
+West Bengal,Shukto,Vegetarian,Medium,Summer,₹150 - ₹300,Vegetarian
+West Bengal,Chingri Malai Curry,Non-Vegetarian,Medium,Summer,₹350 - ₹700,Non-Vegetarian
+
+Tamil Nadu,Dosa,Vegetarian,Medium,All,₹100 - ₹250,Vegan
+Tamil Nadu,Idli,Vegetarian,Low,All,₹100 - ₹200,Vegan
+Tamil Nadu,Sambar,Vegetarian,High,All,₹100 - ₹250,Vegan
+Tamil Nadu,Chettinad Chicken,Non-Vegetarian,High,All,₹350 - ₹600,Keto
+Tamil Nadu,Rasam,Vegetarian,High,All,₹100 - ₹200,Vegan
+
+Kerala,Appam with Stew,Non-Vegetarian,Medium,All,₹200 - ₹450,Non-Vegetarian
+Kerala,Avial,Vegetarian,Low,Summer,₹150 - ₹300,Vegan
+Kerala,Kerala Sadya,Vegetarian,Low,All,₹250 - ₹450,Vegetarian
+Kerala,Beef Fry,Non-Vegetarian,High,Winter,₹350 - ₹650,Non-Vegetarian
+Kerala,Idiyappam with Egg Curry,Non-Vegetarian,Medium,Monsoon,₹250 - ₹500,Non-Vegetarian
+
+Rajasthan,Dal Baati Churma,Vegetarian,High,Winter,₹200 - ₹400,Vegetarian
+Rajasthan,Gatte ki Sabzi,Vegetarian,Medium,All,₹150 - ₹300,Jain
+Rajasthan,Laal Maas,Non-Vegetarian,High,Winter,₹400 - ₹700,Keto
+Rajasthan,Ker Sangri,Vegetarian,Medium,Summer,₹150 - ₹300,Vegetarian
+
+Karnataka,Bisi Bele Bath,Vegetarian,High,All,₹150 - ₹300,Vegetarian
+Karnataka,Ragi Mudde with Sambar,Vegetarian,Medium,All,₹100 - ₹250,Keto
+Karnataka,Kori Rotti,Non-Vegetarian,High,Winter,₹300 - ₹600,Non-Vegetarian
+Karnataka,Neer Dosa with Chicken Curry,Non-Vegetarian,Medium,All,₹250 - ₹500,Non-Vegetarian
+
+Goa,Prawn Balchao,Non-Vegetarian,High,Summer,₹350 - ₹700,Non-Vegetarian
+Goa,Goan Fish Curry,Non-Vegetarian,Medium,All,₹300 - ₹600,Non-Vegetarian
+Goa,Bebinca,Dessert,Low,Winter,₹250 - ₹400,Vegetarian
+Goa,Chicken Xacuti,Non-Vegetarian,High,Monsoon,₹350 - ₹650,Non-Vegetarian
